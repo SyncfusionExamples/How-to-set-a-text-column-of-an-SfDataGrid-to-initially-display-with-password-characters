@@ -52,7 +52,7 @@ public class PasswordCellRenderer : DataGridTextBoxCellRenderer
     }
 }
 ```
- ![Password.png](https://support.syncfusion.com/kb/agent/attachment/inline?token=eyJhbGciOiJodHRwOi8vd3d3LnczLm9yZy8yMDAxLzA0L3htbGRzaWctbW9yZSNobWFjLXNoYTI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjI3OTMyIiwib3JnaWQiOiIzIiwiaXNzIjoic3VwcG9ydC5zeW5jZnVzaW9uLmNvbSJ9.8oAnP-UapfeaU3CYZEoCFU8bXWHC7GIu9o5z-Tzf8gI)
+![Password.png](https://support.syncfusion.com/kb/agent/attachment/article/17058/inline?token=eyJhbGciOiJodHRwOi8vd3d3LnczLm9yZy8yMDAxLzA0L3htbGRzaWctbW9yZSNobWFjLXNoYTI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjI3OTMyIiwib3JnaWQiOiIzIiwiaXNzIjoic3VwcG9ydC5zeW5jZnVzaW9uLmNvbSJ9.8oAnP-UapfeaU3CYZEoCFU8bXWHC7GIu9o5z-Tzf8gI)
 
 [View sample in GitHub](https://github.com/SyncfusionExamples/How-to-set-a-text-column-of-an-SfDataGrid-to-initially-display-with-password-characters)
 
